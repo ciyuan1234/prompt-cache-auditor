@@ -33,6 +33,8 @@ python3 prompt_cache_auditor.py --file1 turn1.txt --file2 turn2.txt --model clau
 
 ## 📊 Terminal Visualization Output
 
+![Prompt Cache Auditor Terminal Demo](cache_audit_visual.png)
+
 ```text
 ╔═══════════════════════════════════════════════════════════════════════╗
 ║             🔍 PROMPT CACHE PREFIX INVARIANCE AUDITOR                 ║
